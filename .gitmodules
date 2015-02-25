@@ -1,0 +1,4 @@
+[submodule "submodules"]
+	path = submodules
+	url = https://github.com/rodrigobirriel/testgitmodules23.git
+	branch = dev
